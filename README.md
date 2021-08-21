@@ -9,7 +9,7 @@ This is the final project that was built on Django (including the Django REST Fr
 
 ## Setting Up the website
 
-1. Clone the project to your machine ```[git clone https://github.com/huutrungrimp/capstone/tree/final]```
+1. Clone the project to your machine ```[git clone https://github.com/huutrungrimp/capstone]```
 2. Open an terminal, then
       - Navigate into the backend directory of the project ```[cd backend]```;
       - run "docker-compose up"
