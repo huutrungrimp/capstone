@@ -1,0 +1,75 @@
+form.form{
+  width: 50%;
+  background-color:aquamarine;
+  margin: auto;
+}
+
+div.navClass{
+  background-color:rgb(196, 212, 255)!important;
+  width: 70%!important;
+  margin: 0 auto
+}
+
+.messageClass{
+  width: 25%!important;
+  background-color:aquamarine;
+  margin: auto;
+}
+
+.mainClass{
+  background-color:rgb(239, 242, 248)!important;
+  width: 70%!important;
+  margin: 0 auto;
+}
+
+.innerClass{
+  background-color:rgb(239, 242, 248)!important;
+  width: 50%!important;
+  margin: 0 auto;
+}
+
+
+div.row{
+  width: 100%!important;
+  margin: 0 auto;
+  padding: 0;
+}
+div.mainText{
+  width:100%;
+  margin: 0;
+  padding: 5px 5px 5px 10px;
+}
+
+
+.leaflet-container {
+  width: 50wh; 
+  height: 50vh;
+  /* background-color: green!important; */
+}
+
+.container {
+  margin-bottom: 25px!important;
+}
+
+
+.formClass{
+  background-color:rgb(239, 242, 248)!important;
+  width: 20%!important;
+  margin: 0 auto;
+}
+
+
+.mainClass {
+  width: 80%;
+  background-color:antiquewhite;
+  margin: 0 auto;
+}
+
+.Row {
+  margin-bottom: 20px!important;
+
+}
+
+body{
+  background-color:rgb(196, 208, 235)!important;
+}

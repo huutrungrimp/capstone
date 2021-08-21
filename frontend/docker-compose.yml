@@ -1,0 +1,11 @@
+version: '3.8'
+services: 
+    react:
+        build: .
+        volumes: 
+            - .:/frontend
+        ports: 
+            - 3000:3000
+        image: frontend:react
+        container_name: react_container
+        command: npm start 0.0.0.0:3000
