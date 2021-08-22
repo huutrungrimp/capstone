@@ -12,12 +12,13 @@ This is the final project that was built on Django (including the Django REST Fr
 1. Clone the project to your machine ```[git clone https://github.com/huutrungrimp/capstone]```
 2. Open an terminal, then
       - Navigate into the backend directory of the project ```[cd backend]```;
-      - run "docker-compose up"
+      - run ```[docker-compose up]```
 
 3. open one more terminal, then
       - Navigate into the backend directory of the project ```[cd frontend]```;
-      - run "npm install"
-      - run "docker-compose up"
+      - run ```[npm install]```
+      - run ```[docker-compose up]```
+      - wait until ```[Compliled successfully]```
 
 
 ## Run the application
