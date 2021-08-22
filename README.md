@@ -3,7 +3,6 @@
 This is the final project that was built on Django (including the Django REST Framework for API) and React.
 
 ## Requirements
-* miniconda
 * React JS
 * Docker Desktop
 
