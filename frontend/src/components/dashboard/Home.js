@@ -95,22 +95,22 @@ const Home = ({ stats }) => {
 
                 <Row style={{ paddingBottom: "2em" }}>
                   <Col sm>
-                    <h5>Total Glocal Cases</h5>
+                    <h5>Total Global Cases</h5>
                     <h3>{total_confirm}</h3>
                   </Col>
 
                   <Col sm>
-                    <h5>Global New Cases Yesterday</h5>
+                    <h5>Global New Cases</h5>
                     <h3>{new_cases}</h3>
                   </Col>
                 </Row>
                 <Row style={{ paddingBottom: "2em" }}>
                   <Col sm>
-                    <h5>Total Glocal Deaths</h5>
+                    <h5>Total Global Deaths</h5>
                     <h3 style={{ color: "red", fontWeight: 'bold' }}>{total_death}</h3>
                   </Col>
                   <Col sm>
-                    <h5>Glocal New Deaths</h5>
+                    <h5>Global New Deaths</h5>
                     <h3 style={{ color: "red", fontWeight: 'bold' }}>{new_deaths}</h3>
                   </Col>
                 </Row>
@@ -143,7 +143,7 @@ const Home = ({ stats }) => {
             <Row>
               <Col sm={5}>
                 <h5>
-                  Total Vacinations in the World and by continents (Mills)
+                  Total Vaccinations in the World and by continents (Mill)
                 </h5>
                 <ResponsiveContainer width="95%" height={400}>
                   <BarChart
@@ -163,7 +163,7 @@ const Home = ({ stats }) => {
                 </ResponsiveContainer>
               </Col>
               <Col sm={5}>
-                <h5>Total Vacinations by income-groups (Mills)</h5>
+                <h5>Total Vaccinations by income-groups (Mill)</h5>
                 <ResponsiveContainer width="95%" height={400}>
                   <BarChart
                     width="50%"

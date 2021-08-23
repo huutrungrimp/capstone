@@ -44,7 +44,7 @@ const UpdatePost = (props) => {
     };
 
     return (
-        <div className='mainClass'>           
+        <div className='container'>           
             
             <h4>Update Course</h4>
             <Form className='form'>

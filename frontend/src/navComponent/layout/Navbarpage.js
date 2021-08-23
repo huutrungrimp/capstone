@@ -41,10 +41,10 @@ const Navbarpage = () => {
 
             <NavDropdown title="Vacination">
               <NavDropdown.Item as={Link} to="/vacination">
-                Vacination
+                Temporal
               </NavDropdown.Item>
               <NavDropdown.Item as={Link} to="/vacinationMap">
-                Maps
+                Global
               </NavDropdown.Item>
             </NavDropdown>
 

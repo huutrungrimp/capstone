@@ -45,7 +45,7 @@ const DeathGraph = () => {
           </div>
         </div>
       </div>
-      <h5>Daily New Death</h5>
+      <h5>Daily New Deaths</h5>
       <BarChart
         width={500}
         height={300}

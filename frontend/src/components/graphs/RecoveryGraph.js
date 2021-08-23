@@ -56,7 +56,7 @@ const RecoveryGraph = () => {
         <YAxis />
         <Bar dataKey="diff" fill="#b04e3a" />
       </BarChart>
-      <h5>Daily Cummulative Recoveried People</h5>
+      <h5>Daily Cummulative Recovered People</h5>
       <BarChart
         width={500}
         height={300}
