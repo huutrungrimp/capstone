@@ -15,7 +15,7 @@ const DeletePost = (props) => {
     };
 
     return (
-        <div className='mainClass'>
+        <div className='container'>
             <p>Are your sure to Delete</p>
             <Button variant="primary" onClick={handleSubmit}>
                 Yes
