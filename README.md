@@ -1,7 +1,7 @@
 ## Introduction
 
 This project was built to illustate the information about the geographical and temporal status of covid pandemics, and to provide a platform for users to share their stories about the covid. A number of covid dashboard have been developed out there, but this project was built on its own ways: distinctiveness and complexity. The project uses COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University to generate the statistics, graphs and geographical maps of the web app.
-
+A short discription of the website can be shown in the link: https://www.youtube.com/watch?v=6XMs6iMD5tk&ab_channel=TrungNguyen
 ## Requirements
 * React JS
 * Docker Desktop
